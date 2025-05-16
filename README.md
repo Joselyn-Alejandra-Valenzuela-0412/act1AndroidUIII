@@ -2,7 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/83278470-e25a-40c1-8544-8926a5307f2f)
+
+
+![image](https://github.com/user-attachments/assets/a46dd69a-c286-408d-b0bd-17f58095f761)
+
+![image](https://github.com/user-attachments/assets/65a2658d-2a8c-47b9-ac66-37796e0cce2b)
+
+
+
 
 This project is a starting point for a Flutter application.
 
